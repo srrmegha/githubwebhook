@@ -1,16 +1,16 @@
 {
-    "name": "John Doe",
-    "age": 30,
-    "email": "johndoe@example.com",
+    "name": "Insomniac test",
+    "env": dev,
+    "email": "test@example.com",
     "address": {
         "street": "123 Main Street",
         "city": "Anytown",
         "country": "USA"
     },
-    "hobbies": [
-        "Reading",
-        "Hiking",
-        "Cooking"
+    "code": [
+        "apigateway",
+        "lambda",
+        "codecommit"
     ],
-    "is_student": false
+    "is_student": true
 }
