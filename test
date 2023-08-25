@@ -4,7 +4,7 @@
     "email": "test@example.com",
     "address": {
         "street": "123 Main Street",
-        "city": "Anytown",
+        "city": "Anywhere",
         "country": "USA"
     },
     "code": [
